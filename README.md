@@ -3,7 +3,7 @@ This program is for drawing images in CTRPF.
 
 # Usage
 ```
-usage: .py [-h] [--start-x START_X] [--start-y START_Y] [--width WIDTH] [--height HEIGHT] [--bottom] [--silent] [--output OUTPUT] file
+usage: main.py [-h] [--start-x START_X] [--start-y START_Y] [--width WIDTH] [--height HEIGHT] [--bottom] [--silent] [--output OUTPUT] file
 
 This program is for drawing images in CTRPF
 
